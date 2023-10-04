@@ -1,0 +1,3 @@
+﻿begin
+  Print('hallo')
+end.
